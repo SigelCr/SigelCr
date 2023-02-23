@@ -15,7 +15,7 @@
 </div>
 
 <div>
-	<h2>Acerca de mí</h2>
+	<h2>Acerca de mí:</h2>
 	<ul>
 		<li>Actualmente estoy estudiando Javascript</li>
 		<li>Puedes contactarte conmigo en este mail: tomasmsigel@hotmail.com</li>
